@@ -1,0 +1,148 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Oklahoma City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-11-20T08:33:55.428Z",
+      "notes": "woooo",
+      "position": {
+        "lat": "35.50985816086391",
+        "lng": "-97.4593577505384"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Comunidad de Albalate de Zorita e Illana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-21T13:54:01.042Z",
+      "notes": "",
+      "position": {
+        "lat": "40.23530398213047",
+        "lng": "-2.928701551141038"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Karia Ba Mohamed",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-11-21T13:54:16.299Z",
+      "notes": "",
+      "position": {
+        "lat": "34.29764772101217",
+        "lng": "-5.100922437580558"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Gueltat Sidi Saad",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-11-21T13:57:35.770Z",
+      "notes": "",
+      "position": {
+        "lat": "34.26629288482978",
+        "lng": "1.6881243301653908"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Gourma Rharous",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2023-11-21T13:57:57.558Z",
+      "notes": "",
+      "position": {
+        "lat": "16.188058520072715",
+        "lng": "-2.4589475467524373"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Chaumont-Gistoux",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2023-11-27T09:30:46.332Z",
+      "notes": "",
+      "position": {
+        "lat": "50.68082307589681",
+        "lng": "4.7203422864104025"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Hinckley",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-11-27T09:32:26.920Z",
+      "notes": "",
+      "position": {
+        "lat": "52.62969499170117",
+        "lng": "-1.496027474099524"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-04-23T10:26:33.016Z",
+      "notes": "OMG",
+      "position": {
+        "lat": "53.25281181199743",
+        "lng": "-6.108373635307841"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Liverpool",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-04-23T10:27:06.643Z",
+      "notes": "I love everything about this city, from the building, culture to its weather. This is really an amazing city to live and travel.",
+      "position": {
+        "lat": "53.3967201323715",
+        "lng": "-2.971797740603635"
+      },
+      "id": 98443214
+    }
+  ]
+}
